@@ -1,0 +1,19 @@
+
+Assignment - Intro to Cirq
+
+1.Download the following notebook: Assign_introtocirq.ipynb 
+2.Do all the questions contained within.
+3.Once you are done, you should submit the completed notebook here.
+4.Remember to save the notebook before submission,
+
+
+Assignment - QPE and Order Finding
+
+1.Download the following notebook:  QPE.ipynb 
+2.Do all the questions contained within.
+3.Once you are done, you should submit the completed notebook here.
+4.Remember to save the notebook before submission,
+
+
+
+
